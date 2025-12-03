@@ -7,4 +7,5 @@ suggests hotels, and generates a full itinerary.
 ## Run
 pip install -r requirements.txt
 export OPENAI_API_KEY=xxxxx
+
 python main.py
